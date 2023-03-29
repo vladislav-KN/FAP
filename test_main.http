@@ -1,0 +1,16 @@
+# Test your FastAPI endpoints
+
+GET http://127.0.0.1:8000/gui/Id
+Accept: application/json
+###
+GET http://127.0.0.1:8000/orders/Id
+Accept: application/json
+###
+GET http://127.0.0.1:8000/order/Code
+Accept: application/json
+###
+GET http://127.0.0.1:8000/settings/Id
+Accept: application/json
+
+
+
