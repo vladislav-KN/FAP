@@ -1,160 +1,30 @@
 {
   "elements": [
     {
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
+      "png" : "https://sun9-77.userapi.com/impg/plNsRJ3qYpq35br2iaGwAtJrvgsn0QCicZriBw/X1gS9RvWdow.jpg?size=500x500&quality=96&sign=6df914c2ae422cd927f3e599d6fa5323&type=album",
+      "name": "вода",
+      "price" : "10.99 ₽",
+      "link" : "https://sun9-77.userapi.com/impg/plNsRJ3qYpq35br2iaGwAtJrvgsn0QCicZriBw/X1gS9RvWdow.jpg?size=500x500&quality=96&sign=6df914c2ae422cd927f3e599d6fa5323&type=album"
     },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
+      "png" : "https://sun3-23.userapi.com/impg/WfbuZxRIcyGREX2HdG_F_oJx4vi98mHFpfxdxw/kEcn1kryx3s.jpg?size=500x500&quality=96&sign=ed62208d80329383d2c336593da5c5f3&type=album",
+      "name": "шоколад",
+      "price" : "18.99 ₽",
+      "link" : "https://sun3-23.userapi.com/impg/WfbuZxRIcyGREX2HdG_F_oJx4vi98mHFpfxdxw/kEcn1kryx3s.jpg?size=500x500&quality=96&sign=ed62208d80329383d2c336593da5c5f3&type=album"
     },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
+      "png" : "https://sun9-6.userapi.com/impg/2N6zwXIjt-VvRDLXh2tBAGunOaQlb78kvgXkFg/jnd39Uf0n5c.jpg?size=500x500&quality=96&sign=c6f053f1c9b2750611a0140e4cb01fb9&type=album",
+      "name": "печенье",
+      "price" : "25.99 ₽",
+      "link" : "https://sun9-6.userapi.com/impg/2N6zwXIjt-VvRDLXh2tBAGunOaQlb78kvgXkFg/jnd39Uf0n5c.jpg?size=500x500&quality=96&sign=c6f053f1c9b2750611a0140e4cb01fb9&type=album"
     },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
+      "png" : "https://sun3-18.userapi.com/impg/9qSP3IoqjRyWSPuPtMBu592-31wl50DtAnOEWw/nNwukDmpmBs.jpg?size=500x500&quality=96&sign=14bcdb28a5068014304cf113fe3c8cd5&type=album",
+      "name": "чипсы",
+      "price" : "40.99 ₽",
+      "link" : "https://sun3-18.userapi.com/impg/9qSP3IoqjRyWSPuPtMBu592-31wl50DtAnOEWw/nNwukDmpmBs.jpg?size=500x500&quality=96&sign=14bcdb28a5068014304cf113fe3c8cd5&type=album"
     },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
-    },{
-      "png" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png",
-      "name" : "Кубики",
-      "price" : "500 ₽",
-      "link" : "https://kids.kiddle.co/images/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
+      "png" : "https://sun3-5.userapi.com/impg/NRp8IK5zNsl5P5AaQu-_XpM1M8HnSHGjKTbMGQ/heSqlX4akaA.jpg?size=500x500&quality=96&sign=788399caeed4a9f8dd7e3eb6c71b0174&type=album",
+      "name": "сникерс",
+      "price" : "13.99 ₽",
+      "link" : "https://sun3-5.userapi.com/impg/NRp8IK5zNsl5P5AaQu-_XpM1M8HnSHGjKTbMGQ/heSqlX4akaA.jpg?size=500x500&quality=96&sign=788399caeed4a9f8dd7e3eb6c71b0174&type=album"
     }
   ]
 }
